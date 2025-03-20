@@ -8,7 +8,7 @@ def BACKUP():
     TNOW = datetime.datetime.now().replace(microsecond=0)
 
     username = 'admin'
-    password = 'admin'
+    password = 'cisco'
 
 
     DEVICE_LIST = open ('09_devices')

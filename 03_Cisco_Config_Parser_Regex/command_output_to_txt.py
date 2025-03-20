@@ -3,8 +3,8 @@ import paramiko
 import time
 
 host = 'csr1.test.lab'
-username = 'admin'
-password = 'admin'
+# username = 'admin'
+password = 'cisco'
 
 n = 0
 while True:

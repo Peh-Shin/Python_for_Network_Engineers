@@ -2,9 +2,9 @@ import paramiko
 import time
 from getpass import getpass
 
-ip = '172.18.1.1'
-username = 'admin'
-password = 'admin'
+ip = '192.168.18.10'
+# username = 'admin'
+password = 'cisco'
 a = int (input('Enter first loopback in range : '))
 b = int (input('Enter last loopback in range : ')) + 1
 SESSION = paramiko.SSHClient()

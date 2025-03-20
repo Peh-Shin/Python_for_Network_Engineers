@@ -4,7 +4,7 @@ import paramiko
 import time
 from getpass import getpass
 
-username = 'developer'
+# username = 'developer'
 password = 'C1sco12345'
 
 DEVICE_LIST = open ('09_devices')

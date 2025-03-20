@@ -27,16 +27,16 @@ no spanning-tree vlan 4094
 !
 no aaa root
 !
-username admin role network-admin secret 5 $1$sPQ9/wqT$XsHz32PMZ/lPxq4e1n4jm0
-username admin2 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
-username admin3 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
-username admin4 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
-username admin5 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
-username admin6 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
-username admin7 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
-username admin8 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
-username admin9 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
-username admin10 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
+# username admin role network-admin secret 5 $1$sPQ9/wqT$XsHz32PMZ/lPxq4e1n4jm0
+# username admin2 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
+# username admin3 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
+# username admin4 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
+# username admin5 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
+# username admin6 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
+# username admin7 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
+# username admin8 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
+# username admin9 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
+# username admin10 secret 5 $1$QtLs82lI$QXM6d.vpfu5cZMcMqHVi7/
 !
 vlan 20
 !

@@ -2,7 +2,7 @@
 import requests
 import getpass
 
-username = input('Enter Username :' )
+# username = input('Enter Username :' )
 password = getpass.getpass('Enter Password :' )
 ip = "ios-xe-mgmt-latest.cisco.com"
 port = "9443"

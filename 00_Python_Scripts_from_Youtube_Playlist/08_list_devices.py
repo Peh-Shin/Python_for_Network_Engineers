@@ -2,8 +2,8 @@
 import paramiko
 import time
 
-username = 'admin'
-password = 'admin'
+# username = 'admin'
+password = 'cisco'
 
 DEVICE_LIST =['10.10.10.' + str(n) for n in range(10,12)]
 for RTR in DEVICE_LIST:

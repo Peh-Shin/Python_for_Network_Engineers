@@ -5,8 +5,8 @@ from getpass import getpass
 import time
 
 host = "csr1.test.lab"
-username = 'admin1'
-# password = 'admin'
+# username = 'admin1'
+# password = 'cisco'
 # password = getpass("Enter password :")
 
 cmd1 = ["show ip int brie",

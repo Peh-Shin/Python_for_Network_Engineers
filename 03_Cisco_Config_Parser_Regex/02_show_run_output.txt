@@ -75,11 +75,11 @@ spanning-tree extend system-id
 !
 !
 netconf-yang
-username admin privilege 15 secret 5 $1$7O2U$rUEsNEDAIFvGAI5FTwjyY1
-username admin1 privilege 15
-username admin2 privilege 15
-username admin3 privilege 15
-username admin5 privilege 15
+# username admin privilege 15 secret 5 $1$7O2U$rUEsNEDAIFvGAI5FTwjyY1
+# username admin1 privilege 15
+# username admin2 privilege 15
+# username admin3 privilege 15
+# username admin5 privilege 15
 !
 redundancy
 !

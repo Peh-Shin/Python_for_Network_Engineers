@@ -6,8 +6,8 @@ import datetime
 TNOW = datetime.datetime.now().replace(microsecond=0)
 TFORMAT = '{:%d-%m-%Y_%H:%M:%S}'.format(TNOW)
 
-username = 'admin'
-password = 'admin'
+# username = 'admin'
+password = 'cisco'
 scp_pass = getpass( prompt = 'Enter SCP server Password :')
 
 DEVICE_LIST = open ('09_devices')

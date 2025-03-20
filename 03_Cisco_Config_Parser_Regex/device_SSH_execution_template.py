@@ -5,8 +5,8 @@ from getpass import getpass
 import re
 
 host = 'csr1.test.lab'
-username = 'admin'
-password = 'admin'
+# username = 'admin'
+password = 'cisco'
 
 # host = 'ios-xe-mgmt-latest.cisco.com'
 # username = 'developer'

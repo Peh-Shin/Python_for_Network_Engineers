@@ -5,7 +5,7 @@ from getpass import getpass
 import time
 
 host = "ubuntu2.test.lab"
-username = 'user1'
+# username = 'user1'
 # password = getpass("Enter password :")
 
 session = paramiko.SSHClient()

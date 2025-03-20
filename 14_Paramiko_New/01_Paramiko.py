@@ -1,8 +1,8 @@
 #! /usr/local/Python_envs/Python3/bin/python3
 
-ip = '172.18.1.1'
-username = 'admin'
-password = 'admin'
+ip = '192.168.18.10'
+# username = 'admin'
+password = 'cisco'
 
 SESSION = paramiko.SSHClient()
 SESSION.set_missing_host_key_policy(paramiko.AutoAddPolicy())

@@ -6,11 +6,11 @@ import time
 
 cisco_jump_host_ip = '192.168.0.49'
 cisco_jump_host_user = 'admin'
-cisco_jump_host_password = 'admin'
+cisco_jump_host_password = 'cisco'
 
 router_ip = '192.168.0.50'
 router_user = 'admin'
-router_password = 'admin'
+router_password = 'cisco'
 
 print(f"\n{'#'*50}\n1. Connecting to the Cisco Jump host\n{'#'*50}")
 try:

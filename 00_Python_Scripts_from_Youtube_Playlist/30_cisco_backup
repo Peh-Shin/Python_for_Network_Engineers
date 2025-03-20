@@ -43,8 +43,8 @@ multilink bundle-name authenticated
 license udi pid CSR1000V sn 9XLKVMYUTF3
 file prompt quiet
 !
-username admin privilege 15 secret 5 $1$YKnO$PAp9RMpleyTbAqc1yPfXm1
-username admin1 privilege 15
+# username admin privilege 15 secret 5 $1$YKnO$PAp9RMpleyTbAqc1yPfXm1
+# username admin1 privilege 15
 !
 redundancy
  mode none

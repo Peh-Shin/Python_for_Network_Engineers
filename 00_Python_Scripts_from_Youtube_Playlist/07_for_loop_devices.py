@@ -3,8 +3,8 @@ import paramiko
 import time
 from getpass import getpass
 
-username = 'admin'
-password = 'admin'
+# username = 'admin'
+password = 'cisco'
 
 for RTR in range(10,12):
     ip = '10.10.10.' + str(RTR)

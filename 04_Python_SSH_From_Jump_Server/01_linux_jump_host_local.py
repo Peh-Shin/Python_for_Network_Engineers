@@ -10,7 +10,7 @@ linux_jump_host_password = 'evolve@123'
 
 router_ip = '192.168.0.50'
 router_user = 'admin'
-router_password = 'admin'
+router_password = 'cisco'
 
 print(f"\n{'#'*50}\n1. Connecting to the Jump host\n{'#'*50}")
 try:

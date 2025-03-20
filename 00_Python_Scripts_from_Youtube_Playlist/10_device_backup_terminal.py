@@ -6,8 +6,8 @@ import datetime
 
 TNOW = datetime.datetime.now().replace(microsecond=0)
 
-username = 'admin'
-password = 'admin'
+# username = 'admin'
+password = 'cisco'
 
 DEVICE_LIST = open ('09_devices')
 for RTR in DEVICE_LIST:
